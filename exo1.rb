@@ -7,4 +7,5 @@ else
     puts "Le mot n'est pas un palindrome"
 end
 
+
   
